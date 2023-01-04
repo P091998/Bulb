@@ -1,0 +1,25 @@
+body{
+    margin: 5%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+h3{
+    color: orange;
+}
+#btn{
+    height: 50px;
+    width: 100px;
+    color: rgb(60, 47, 29);
+    background-color: antiquewhite;
+    border-color: rgb(71, 42, 13);
+}
+
+#btn:hover{
+    cursor: pointer;
+    color: rgb(157, 51, 51);
+    background-color: rgb(203, 127, 127);
+}
